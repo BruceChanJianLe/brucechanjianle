@@ -4,6 +4,7 @@
 
 ## Roboticist ![](https://img.shields.io/badge/-%3A%3A%3AROS-red) ![](https://img.shields.io/badge/-C/C++-c14438?style=flat-square&logo=C&logoColor=fff) ![](https://img.shields.io/badge/-Python-333?style=flat-square&logo=Python&logoColor=fff)
 
+- 🔭 I’m currently working on 2D/3D Path Planning, Traversability Estimation, Autonomous Exploration and Deep Learning for Robotics. 
 
 <!--
 **BruceChanJianLe/brucechanjianle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
