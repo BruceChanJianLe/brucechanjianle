@@ -1,7 +1,7 @@
 ### Bruce Chan Jian Le
 
 I (am):
-- A Software developer in Singapore.
+- A software developer in Singapore.
 - Working in the robotics field.
 - Primarily program in C++ and Python.
 - Use vim! 
