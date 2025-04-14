@@ -2,7 +2,7 @@
 
 I (am):
 - A software developer in Singapore.
-- Working in the robotics field.
+- Working in AI and robotics field.
 - Primarily program in C++ and Python.
 - Use vim! 
 
